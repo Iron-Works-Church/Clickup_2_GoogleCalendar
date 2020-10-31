@@ -46,5 +46,4 @@ def close_task(task):
     response = response.json()
     pprint.pprint(response)
 
-lambda_handler("test", "test")
 
